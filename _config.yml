@@ -26,12 +26,12 @@ projects:
     archived: false
     forks: true
     projects:
-    Youtube_repeat_extension
-    auto_reg_accounts_facebook
-    Ban-tien-viettel
-    Auto_-shake_ViettelPay_2020
-    notepad
-    dino
+      - Youtube_repeat_extension
+      - auto_reg_accounts_facebook
+      - Ban-tien-viettel
+      - Auto_-shake_ViettelPay_2020
+      - notepad
+      - dino
 
 # social_media:
   # behance: your_username
