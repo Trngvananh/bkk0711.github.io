@@ -1,4 +1,4 @@
-layout: stacked
+layout: sidebar
 style: light
 
 plugins:
@@ -57,4 +57,3 @@ topics:
 
   - name: Algorithm
     web_url: https://github.com/topics/algorithm
-   
